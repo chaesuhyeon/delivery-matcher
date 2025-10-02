@@ -6,7 +6,7 @@ plugins {
 	kotlin("plugin.jpa") version "1.9.25"
 }
 
-group = "com.example.deliverymatcher"
+group = "com.deliverymatcher"
 version = "0.0.1-SNAPSHOT"
 description = "Real-time delivery driver matching service"
 
